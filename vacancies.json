@@ -1,0 +1,1402 @@
+[
+    {
+        "name": "Верстальщик (удаленно)",
+        "city": "Краснодар",
+        "url": "https://hh.ru/vacancy/90982035",
+        "salary": "40000 - 80000 RUR",
+        "description": "Требования: Верстальщик с опытом работы на OpenCart (удаленно). От исполнителя: + Знание особенностей и строения системы OpenCart. + Соответствие с W..."
+    },
+    {
+        "name": "Программист-стажер",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91224284",
+        "salary": "50000 RUR",
+        "description": "Требования: Иметь представление о html,css,JavaScript/Vue, nodejs/php,<highlighttext>python</highlighttext>,MySQL/MongoDB,nginx/apache,Linux,WSL,Docker. Уметь играть в..."
+    },
+    {
+        "name": "Программист-стажер",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91315229",
+        "salary": "Не указано",
+        "description": "Требования: Высшее или неоконченное высшее техническое образование: физика/математика/вычислительная математика/кибернетика/информационные технологии. Знание теоретических основ: математический анализ, дискретный анализ..."
+    },
+    {
+        "name": "Инженер IT инфраструктуры (Modern workplace)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91270643",
+        "salary": "300000 RUR",
+        "description": "Требования: Владение скриптовыми языками (например, PowerShell, <highlighttext>Python</highlighttext>) для автоматизации рутинных задач и управления конфигурацией. Опыт работы с инструментами мониторинга (например, Nagios..."
+    },
+    {
+        "name": "Backend developer (Python, FastAPI)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91304792",
+        "salary": "Не указано",
+        "description": "Требования: Опыт разработки сервисов на <highlighttext>Python</highlighttext> от 2 лет."
+    },
+    {
+        "name": "Backend-разработчик, удаленно",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90215913",
+        "salary": "100000 RUR",
+        "description": "Требования: <highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "name": "Junoir backend developer (Python)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/90565057",
+        "salary": "60000 RUR",
+        "description": "Требования: Знаешь <highlighttext>Python</highlighttext> и имеешь опыт написания pet-проектов. Знаком(а) с Django и Flask/Fast API. Понимаешь СУБД и можешь..."
+    },
+    {
+        "name": "Python-developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91261236",
+        "salary": "100000 - 215000 RUR",
+        "description": "Требования: Делать лучший продукт в России. Уверенные знания <highlighttext>Python</highlighttext>, ООП. Опыт работы с PostgreSQL: построение оптимальных sql-запросов (без использования ORM..."
+    },
+    {
+        "name": "QA-Инженер",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91281826",
+        "salary": "Не указано",
+        "description": "Требования: Желательно знание языков программирования или сценарных языков (например, <highlighttext>Python</highlighttext>, Java, JavaScript). Умение работать в условиях быстро меняющихся требований и приоритетов."
+    },
+    {
+        "name": "QA engineer (внутренний проект)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91312591",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы Ручным тестировщиком. Опыт написания автотестов (Java) и интерес развиваться в этом направлении. Опыт формирования тестовой документации. "
+    },
+    {
+        "name": "Стажер-разработчик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91276076",
+        "salary": "Не указано",
+        "description": "Требования: Базовые технические знания и навыки в ИТ. Базовое знание языка <highlighttext>Python</highlighttext>. Желание вникать в бизнес-логику/бизнес-процессы. Самостоятельность. "
+    },
+    {
+        "name": "Программист-стажер",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90382584",
+        "salary": "20000 - 30000 RUR",
+        "description": "Требования: Не указано"
+    },
+    {
+        "name": "Python Developer (стажер)",
+        "city": "Воронеж",
+        "url": "https://hh.ru/vacancy/91182148",
+        "salary": "Не указано",
+        "description": "Требования: Теоретическое знание <highlighttext>Python</highlighttext>, знание основных алгоритмов и структур данных, SQL и проектирования реляционных БД. Понимание принципов ООП. Навыки использования OS..."
+    },
+    {
+        "name": "Программист Python",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91282139",
+        "salary": "Не указано",
+        "description": "Требования: Уверенное понимание работы с Git. Опыт многопоточного и асинхронного программирования. Опыт работы PostgreSQL и c RabbitMQ. Понимание принципов SOLID. "
+    },
+    {
+        "name": "Python-разработчик",
+        "city": "Омск",
+        "url": "https://hh.ru/vacancy/91256157",
+        "salary": "100000 - 150000 RUR",
+        "description": "Требования: Опыт работы в качестве <highlighttext>Python</highlighttext>-разработчика. Опыт использования популярных <highlighttext>Python</highlighttext>-фреймворков (кроме Django). Знание библиотек OpenCV, TensorFlow и PyTorch. "
+    },
+    {
+        "name": "Junior-тестировщик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91267470",
+        "salary": "30000 - 40000 RUR",
+        "description": "Требования: Базовые знания методологии разработки программного обеспечения. Общее представление о Web-технология, понимание для чего и где используется. Любить тестирование. "
+    },
+    {
+        "name": "Junior Data Scientist",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90947346",
+        "salary": "Не указано",
+        "description": "Требования: Желание разбираться в данных. Опыт аналитической работы с использованием языка <highlighttext>Python</highlighttext>\\SAS. Знание ML. Знание PL/SQL, опыт работы с..."
+    },
+    {
+        "name": "Программист-разработчик Python",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91312632",
+        "salary": "Не указано",
+        "description": "Требования: Высшее техническое образование. Опыт работы <highlighttext>Python</highlighttext> разработчиком от 1 года. Знания fastapi, работа с базами данных SQL и NoSQL, навыки..."
+    },
+    {
+        "name": "Стажер в информационную безопасность",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91302650",
+        "salary": "40000 RUR",
+        "description": "Требования: Системное администрирования (Linux и Windows). Работы с различными СЗИ. Навык работы со скриптами (<highlighttext>Python</highlighttext>, Bash, Powershell). Навык анализа логов ОС..."
+    },
+    {
+        "name": "Middle Python developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91273774",
+        "salary": "150000 RUR",
+        "description": "Требования: ...<highlighttext>python</highlighttext>3. - Уверенное владение хотя бы одним из известных веб-фреймворков - django/flask/starlette-fastapi. - Знакомство с современным инструментами <highlighttext>python</highlighttext>..."
+    },
+    {
+        "name": "Разработчик Python",
+        "city": "Нижний Новгород",
+        "url": "https://hh.ru/vacancy/90981465",
+        "salary": "Не указано",
+        "description": "Требования: Разработка проектов на <highlighttext>Python</highlighttext> с использованием Django/DRF от 1 года. Опыт написания raw SQL запросов, понимание и оптимизация запросов..."
+    },
+    {
+        "name": "Руководитель IT-департамента",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91239985",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы в IT от 3х лет. Практический опыт разработки. Умение понять проблемы и задачи бизнеса, предложить оптимальное технологическое..."
+    },
+    {
+        "name": "Программист Python (удаленно)",
+        "city": "Владивосток",
+        "url": "https://hh.ru/vacancy/91021945",
+        "salary": "75000 RUR",
+        "description": "Требования: Опыт веб-разработки, знание указанных выше языков или иных для решения поставленной задачи."
+    },
+    {
+        "name": "Бэкенд-разработчик Python Django",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90551583",
+        "salary": "Не указано",
+        "description": "Требования: опыт работы от 1 года."
+    },
+    {
+        "name": "Backend разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90356190",
+        "salary": "70000 - 100000 RUR",
+        "description": "Требования: Понимание сетей. HTTP/HTTPS. TCP/IP (*). WebSockets (*). Django Serialize/Pydantic/Dataclass. Pytest/Tox. Линтеры, статические анализаторы, форматеры (*). Bash Scripts (*). "
+    },
+    {
+        "name": "Менеджер Отдела анализа и планирования финансово-хозяйственной деятельности",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91294731",
+        "salary": "Не указано",
+        "description": "Требования: Базовые навыки программирования будут плюсом: MS SQL Server/MS Power BI/<highlighttext>Python</highlighttext>. Желание расти и развиваться, работать в рамках поставленных..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91293953",
+        "salary": "Не указано",
+        "description": "Требования: Отличные знания верстки. Опыт бэкенд-разработки на алгоритмических языках (PHP/<highlighttext>Python</highlighttext>). Знание SQL и теории реляционных баз данных. "
+    },
+    {
+        "name": "Data Scientist (специалист по анализу данных и машинному обучению)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91308305",
+        "salary": "Не указано",
+        "description": "Требования: Высшее образование. Языки программирования: знание <highlighttext>Python</highlighttext>. DS пакеты: scikit-learn, TensorFlow, PyTorch, pandas, NumPy. Знания технологии Big Data (Hadoop, Hive..."
+    },
+    {
+        "name": "Разработчик Python (Junior)(аккредитованная ИТ-компания)",
+        "city": "Вологда",
+        "url": "https://hh.ru/vacancy/91101551",
+        "salary": "35000 - 45000 RUR",
+        "description": "Требования: Знания <highlighttext>Python</highlighttext> (Django). Понимание клиент-серверной архитектуры. Понимание принципов работы баз данных и SQL. Понимание микросервисной архитектуры. Знание системы управления..."
+    },
+    {
+        "name": "Junior Analyst (Младший Аналитик)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91266952",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы с MS Excel Solver. Умение программировать VBA, SQL, <highlighttext>Python</highlighttext> и т.п.. Навыки самостоятельного ведения проектов (Project Management). "
+    },
+    {
+        "name": "Backend Python Django Developer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90578989",
+        "salary": "40000 - 90000 RUR",
+        "description": "Требования: Опыт работы с <highlighttext>Python</highlighttext>. Уверенное знание <highlighttext>Python</highlighttext> и в частности Django. Знание SQL (MySQL). Опыт работы с Git, Docker, GitFlow."
+    },
+    {
+        "name": "Стажер-разработчик Python/Java/Kotlin (компьютерное зрение), удалённо",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/89166853",
+        "salary": "15000 RUR",
+        "description": "Требования: Знание <highlighttext>Python</highlighttext>. Знание Tensorflow или PyTorch. Опыт использования моделей семантической. Сегментации, детекции, классификации. Опыт работы с Docker. Опыт написания микросервиса..."
+    },
+    {
+        "name": "Frontend разработчик (Управление перспективных проектов)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91320806",
+        "salary": "Не указано",
+        "description": "Требования: Преимуществом является знание DevExtreme, Django, Django Rest Framework, PySpark, Docker, Kubernetes."
+    },
+    {
+        "name": "Junior Python developer",
+        "city": "Набережные Челны",
+        "url": "https://hh.ru/vacancy/90286142",
+        "salary": "50000 RUR",
+        "description": "Требования: Умение программировать на <highlighttext>Python</highlighttext>, писать читаемый код. Знание фреймворков Django. Разбираться в верстке HTML и CSS. Опыт работы со сторонними..."
+    },
+    {
+        "name": "Продуктовый аналитик (junior)",
+        "city": "Рязань",
+        "url": "https://hh.ru/vacancy/91244556",
+        "salary": "100000 - 200000 RUR",
+        "description": "Требования: Владение PowerBI / Tableau / DataLens / Superset / Grafana или другим BI-инструментом для визуализации данных, создание витрин данных. Знание SQL и <highlighttext>Python</highlighttext>. "
+    },
+    {
+        "name": "Методист",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90944557",
+        "salary": "70000 - 100000 RUR",
+        "description": "Требования: ...на английском, самостоятельно готовить контент на английском не требуется). — базовые навыки работы в <highlighttext>Python</highlighttext> / SQL. — знание финансов на продвинутом уровне."
+    },
+    {
+        "name": "Начинающий аналитик / тестировщик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91221490",
+        "salary": "50000 RUR",
+        "description": "Требования: Понимание структуры и содержания проектной и рабочей документации на информационную систему. Навыки программирования на Java/<highlighttext>Python</highlighttext>, знание основ SQL, принципов..."
+    },
+    {
+        "name": "Исследователь",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/90505963",
+        "salary": "60000 RUR",
+        "description": "Требования: Преимуществом будет: Владение как минимум одной средой статистического анализа: R, Stata, <highlighttext>Python</highlighttext>. Навыки статистического анализа данных. Владение методами машинного обучения. "
+    },
+    {
+        "name": "Специалист-аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91308813",
+        "salary": "90000 RUR",
+        "description": "Требования: Написание скриптов на <highlighttext>Python</highlighttext>, общие представления об основных библиотеках, используемых в работе: pandas, numpy, datetime, os, re, openpyxl, nltk. "
+    },
+    {
+        "name": "Стажер Back-end разработчика (php, python, c#)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/89753481",
+        "salary": "15000 - 30000 RUR",
+        "description": "Требования: Знание одного из языков: php, <highlighttext>python</highlighttext>, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+    },
+    {
+        "name": "Программист-разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91296442",
+        "salary": "100000 - 120000 RUR",
+        "description": "Требования: ...с системами контроля версий (git). Опыт разработки на одноплатных компьютерах. Опыт использования фреймворка Qt. Опыт разработки под Linux. Знание <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Python Backend Developer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90224812",
+        "salary": "120000 RUR",
+        "description": "Требования: Не указано"
+    },
+    {
+        "name": "Технический директор (СТО) в IT компанию",
+        "city": "Новосибирск",
+        "url": "https://hh.ru/vacancy/91249290",
+        "salary": "500000 RUR",
+        "description": "Требования: Широкий IT кругозор и опыт , умение предложить техническое решение для реализации бизнес-планов. Опыт управления процессами разработки и тестирования приложений."
+    },
+    {
+        "name": "ML инженер (стажер)",
+        "city": "Томск",
+        "url": "https://hh.ru/vacancy/91250345",
+        "salary": "Не указано",
+        "description": "Требования: Уделять стажировке не менее 15 часов в неделю."
+    },
+    {
+        "name": "Стажер/Аналитик данных (Python, Power BI)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91329403",
+        "salary": "Не указано",
+        "description": "Требования: Знание Word, Excel, <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Стажер/разработчик Python",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90415076",
+        "salary": "Не указано",
+        "description": "Требования: Знания Linux. Будет плюсом задание Go/C/C++, знание сетей."
+    },
+    {
+        "name": "Стажер IT (нагрузочное тестирование), Ижевск",
+        "city": "Ижевск",
+        "url": "https://hh.ru/vacancy/91261164",
+        "salary": "40000 - 45000 RUR",
+        "description": "Требования: Увлеченность IT - тематикой и стремление к развитию в этом направлении. Основы ООП, простейшие алгоритмы. Базовые знания Java необходимы. "
+    },
+    {
+        "name": "Аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91280206",
+        "salary": "220000 RUR",
+        "description": "Требования: <highlighttext>Python</highlighttext> на уровне уверенного пользователя (pandas, numpy, другие стандартные питон-библиотеки). Базовые навыки работы с табличными данными, знание SQL. "
+    },
+    {
+        "name": "Prompt Engineer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/90410302",
+        "salary": "Не указано",
+        "description": "Требования: Понимаешь принципы машинного обучения, работы LLM, обработки естественного языка (NLP) и компьютерного зрения. Знаешь <highlighttext>Python</highlighttext> (знание Go и JavaScript будет..."
+    },
+    {
+        "name": "Экономист-аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91329159",
+        "salary": "Не указано",
+        "description": "Требования: Высшее экономическое образование. Знание эконометрики, экономической теории и статистики. Опыт работы с базами данных как преимущество (<highlighttext>Python</highlighttext>, R, SQL)."
+    },
+    {
+        "name": "C#/.NET backend разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91198526",
+        "salary": "500000 RUR",
+        "description": "Требования: Опыт работы с FIX protocol. Опыт в трейдинге или маркет-мейкинге. Опыт работы с <highlighttext>Python</highlighttext>. Опыт работы с микросервисной архитектурой. "
+    },
+    {
+        "name": "Стажер продуктовый аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90393605",
+        "salary": "Не указано",
+        "description": "Требования: Ты хорошо владеешь SQL. В <highlighttext>Python</highlighttext> ты можешь получать данные из базы, соединять несколько источников в одну таблицу, рисовать графики. "
+    },
+    {
+        "name": "Python 3.10+ Backend разработчик",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91214646",
+        "salary": "130000 RUR",
+        "description": "Требования: Ожидание от кандидата- стремление создавать качественный и интересный продукт, желание реализовывать свои идеи. Уверенные знания: <highlighttext>Python</highlighttext> 3.10+. Flask. "
+    },
+    {
+        "name": "Тестировщик (Стажер)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90718662",
+        "salary": "40000 RUR",
+        "description": "Требования: Знание PHP и <highlighttext>Python</highlighttext> на уровне разработки и тестирования. Опыт работы с фреймворками Laravel и Django. Навыки работы с базами..."
+    },
+    {
+        "name": "Программист Python (разработка тг-бота)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91217831",
+        "salary": "30000 - 70000 RUR",
+        "description": "Требования: Имеет релеватный опыт работы от 1-2 лет. Не боится большого объема информации. Самоорганизован, энергичен и инициативен. Готов постоянно быть..."
+    },
+    {
+        "name": "Backend-разработчик Go (переход с других языков программирования)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91271347",
+        "salary": "Не указано",
+        "description": "Требования: Опыт промышленной разработки на высокоуровневых языках программирования (С++, <highlighttext>Python</highlighttext>, Java, C#, <highlighttext>Python</highlighttext>, Ruby - любые два) - 2–3 года и более. "
+    },
+    {
+        "name": "Python-разработчик / Junior Python Developer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90204534",
+        "salary": "100000 - 150000 RUR",
+        "description": "Требования: Требуемый опыт работы: опыт в программировании на <highlighttext>Python</highlighttext>. Ключевые навыки: <highlighttext>Python</highlighttext>, Linux, MySQL, Apache HTTP Server, SQL, Flask."
+    },
+    {
+        "name": "Стажер QA-инженер",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91320117",
+        "salary": "Не указано",
+        "description": "Требования: Знание языка <highlighttext>Python</highlighttext>. Базовые знания SQL. Опыт работы с GitHub/Gitlab/Bitbucket, Jira, Confluence. Приветствуется опыт написания автотестов на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Аналитик (Правительство Москвы)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/76431704",
+        "salary": "60000 - 80000 RUR",
+        "description": "Требования: Экспертное владение Excel. (VBA, power query, формулы массивов - как преимущество). Владение <highlighttext>Python</highlighttext> для анализа данных (библиотека pandas) - как преимущество. "
+    },
+    {
+        "name": "Стажер - продуктовый аналитик, Подгруппа \"Аналитика и исследования\"",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91327054",
+        "salary": "Не указано",
+        "description": "Требования: Знание SQL (различные виды джоинов, функции агрегации). <highlighttext>Python</highlighttext> (базовые навыки). Excel (сводные таблицы, немного power query). Умение работать в любой..."
+    },
+    {
+        "name": "Тестировщик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91067284",
+        "salary": "Не указано",
+        "description": "Требования: Самостоятельность, умение разбираться в тестируемом функционале. Логическое мышление (умение последовательно описать шаги и условия воспроизведения ошибки). Будет плюсом знание <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "name": "Middle Frontend Developer (React, React Native)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91243871",
+        "salary": "230000 RUR",
+        "description": "Требования: Понимание особенностей работы нативных приложений. Знание другия ЯП (swift, kotlin, <highlighttext>python</highlighttext> и тд). Наличие портфолио на Github/Gitlab (приложите ссылку..."
+    },
+    {
+        "name": "Аналитик / Associate в Polaris Capital",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91321397",
+        "salary": "Не указано",
+        "description": "Требования: ...Capital IQ и т.п.) Знание языков программирования, таких как <highlighttext>Python</highlighttext>, приветствуется. Английский язык: свободное владение. Требуемые личные качества: высокие..."
+    },
+    {
+        "name": "QA-инженер / Тестировщик программного обеспечения",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91305318",
+        "salary": "80000 RUR",
+        "description": "Требования: Базовые знания английского приветствуются. Прохождение специализированных курсов. Базовое представление об SQL. Знание скриптовых языков типа <highlighttext>Python</highlighttext>. Желание развиваться в области..."
+    },
+    {
+        "name": "Junior/Trainee python-разработчик",
+        "city": "Самара",
+        "url": "https://hh.ru/vacancy/91033282",
+        "salary": "Не указано",
+        "description": "Требования: Опыт разработки на <highlighttext>Python</highlighttext> от 1 года. Опыт разработки веб-приложений Fastapi. Опыт работы с базами данных (Postgres, MongoDB, Redis). "
+    },
+    {
+        "name": "Data scientist",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91278563",
+        "salary": "Не указано",
+        "description": "Требования: ...с текстами (Sentence-Bert, Bert, NER, GPT, T5). Умение писать готовый к production код (<highlighttext>Python</highlighttext>), навыки написания SQL запросов."
+    },
+    {
+        "name": "Младший аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/89035627",
+        "salary": "Не указано",
+        "description": "Требования: Опыт чтения документации DWH будет преимуществом. Уверенное владение SQL или <highlighttext>Python</highlighttext>. Умение использовать продвинутые функции Excel. Опыт работы с Zeppelin..."
+    },
+    {
+        "name": "Продуктовый аналитик / Data Analyst (junior)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91234804",
+        "salary": "800 USD",
+        "description": "Требования: понимать, моделировать и анализировать LTV, ROI, ARPU, retention, churn и др.. - умение проводить А/Б тесты и подсчитывать их достоверность. - "
+    },
+    {
+        "name": "Junior / Junior+ Python разработчик",
+        "city": "Казань",
+        "url": "https://hh.ru/vacancy/90789679",
+        "salary": "40000 RUR",
+        "description": "Требования: умение работать с документацией. Будет плюсом: - опыт применения Git. - опыт работы со сторонними api. - <highlighttext>python</highlighttext> библиотеки request, bs4. - "
+    },
+    {
+        "name": "Junior Python разработчик",
+        "city": "Химки",
+        "url": "https://hh.ru/vacancy/90252342",
+        "salary": "100000 RUR",
+        "description": "Требования: Знание языка программирования <highlighttext>Python</highlighttext> 3.x. Умение читать и понимать чужой код. Опыт работы с реляционными базами данных. "
+    },
+    {
+        "name": "Аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91330957",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы аналитиком от 2-х лет. <highlighttext>Python</highlighttext>: опыт работы как в Jupyter-ноутбуках, так и в разработке функций, используемых..."
+    },
+    {
+        "name": "Senior Project Manager (CVM)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91291979",
+        "salary": "400000 RUR",
+        "description": "Требования: Базовое знание хотя бы одного из языков программирования (например, <highlighttext>Python</highlighttext> или Java). Опыт работы с распределенными командами и разработчиками, частично..."
+    },
+    {
+        "name": "Тестировщик ПО (QA Engineer)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91237789",
+        "salary": "50000 - 80000 RUR",
+        "description": "Требования: Знание и понимание специфики тестирования. - Понимание процессов разработки и тестирования. - Знание техник тест-дизайна."
+    },
+    {
+        "name": "Junior Data Scientist (Стажер)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/89413886",
+        "salary": "Не указано",
+        "description": "Требования: Иметь навыки программирования на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Python-разработчик (Управление данными)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90657302",
+        "salary": "Не указано",
+        "description": "Требования: <highlighttext>Python</highlighttext>, Django, Flask, SQL. Знание Kubernetes, Kubflow, Docker, ML будет преимуществом."
+    },
+    {
+        "name": "Junior Fullstack разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91214258",
+        "salary": "70000 RUR",
+        "description": "Требования: Понимание работы backend части web-разработки. PHP или <highlighttext>Python</highlighttext> обязательно. Javascript на базовом уровне. Понимание работы с GIT. "
+    },
+    {
+        "name": "Python-программист (Python backend developer)",
+        "city": "Барнаул",
+        "url": "https://hh.ru/vacancy/90456435",
+        "salary": "100000 RUR",
+        "description": "Требования: Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. "
+    },
+    {
+        "name": "Python Developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91329827",
+        "salary": "110000 - 140000 RUR",
+        "description": "Требования: Владеете уверенными знаниями <highlighttext>Python</highlighttext>. Обладаете уверенными знаниями SQL и был опыт работы с PostgreSQL. Знаете технический английский на уровне чтения..."
+    },
+    {
+        "name": "Стажер-разработчик Python (финтех)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90865664",
+        "salary": "Не указано",
+        "description": "Требования: Уверенное знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворком Django. Опыт работы с СУБД PostgreSQL. Знание ООП и структур данных. "
+    },
+    {
+        "name": "Стажер-разработчик Python",
+        "city": "Ярославль",
+        "url": "https://hh.ru/vacancy/90415053",
+        "salary": "Не указано",
+        "description": "Требования: Знание <highlighttext>Python</highlighttext> и Django. Будет плюсом знание React/Vue, Go/C/C++, сетей, Linux."
+    },
+    {
+        "name": "Junior Data Scientist",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90878934",
+        "salary": "Не указано",
+        "description": "Требования: Хороший уровень владения <highlighttext>Python</highlighttext> и наиболее популярными библиотеками, используемыми при анализе данных и построении моделей (pandas, numpy, sklearn, scipy, statsmodels..."
+    },
+    {
+        "name": "DevOps-engineer (Junior)",
+        "city": "Новосибирск",
+        "url": "https://hh.ru/vacancy/91152631",
+        "salary": "100000 RUR",
+        "description": "Требования: Linux (ubuntu/debian, centos). Kubernetes (k8s, k3s). Prometheus/Grafana/Zabbix. ELK. CI/CD (GitLab, Jenkins). "
+    },
+    {
+        "name": "In-Store Specialist / Специалист по эффективности полевых сил",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90472026",
+        "salary": "150000 RUR",
+        "description": "Требования: Advanced Excel and data visualization skills (e.g., Power BI). Excellent organization and time management skills. <highlighttext>Python</highlighttext> and KNIME skills..."
+    },
+    {
+        "name": "Разработчик игр / Game Developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91242759",
+        "salary": "150000 - 400000 RUR",
+        "description": "Требования: Опыт в разработке игр, знание языков программирования, движков и т.д. Аналитическое и творческое мышление в тесной кооперации. "
+    },
+    {
+        "name": "Аналитик данных / BI-аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91307076",
+        "salary": "Не указано",
+        "description": "Требования: Опыт в аналогичной должности от 2 лет. Отличное знание SQL, базово <highlighttext>Python</highlighttext> (pandas). Опыт работы с BI. Опыт работы с..."
+    },
+    {
+        "name": "Data Engineer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91277496",
+        "salary": "500000 RUR",
+        "description": "Требования: Уверенные знания <highlighttext>Python</highlighttext> 3.7 + Spark 2.4 / Spark 3.0 (структуры данных, алгоритмы, концепции языка). Уверенные знания SQL..."
+    },
+    {
+        "name": "Программист Python (сеть вендинга)",
+        "city": "Казань",
+        "url": "https://hh.ru/vacancy/91246051",
+        "salary": "Не указано",
+        "description": "Требования: Большая часть нашего софта сделана на <highlighttext>Python</highlighttext> + Vue.js, поэтому важно наличие у вас большого опыта работы с <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Data Engineer (DWH)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91027215",
+        "salary": "Не указано",
+        "description": "Требования: Глубокое знание SQL (включая оконные аналитические функции). Уверенное владение <highlighttext>Python</highlighttext>. Опыт написания пайплайнов на Spark и опыт работы с Hadoop..."
+    },
+    {
+        "name": "Программист-разработчик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/90410518",
+        "salary": "50000 - 200000 RUR",
+        "description": "Требования: Знание .Net (.Net 6.0+, EF Core). Опыт работы с PostgreSQL (или другими реляционными базами данных). Опыт работы с..."
+    },
+    {
+        "name": "Middle QA-инженер (удаленно)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91303510",
+        "salary": "Не указано",
+        "description": "Требования: Опыт в тестировании от 3х лет. Опыт тестирования веб-приложений (frontend\\backend\\SQL\\API). Понимание этапов и процессов тестирования..."
+    },
+    {
+        "name": "Research Engineer DL/ML",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91272131",
+        "salary": "Не указано",
+        "description": "Требования: Профильное высшее образование. <highlighttext>Python</highlighttext>, Pytorch. ML, DL. Навык чтения и реализации статей. Хорошая математическая подготовка."
+    },
+    {
+        "name": "Инженер-тестировщик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/90749548",
+        "salary": "40000 - 90000 RUR",
+        "description": "Требования: Опыт не обязателен. - Приветствуется знание основ тестирования ПО. - Готовность к обучению. - Умение работать самостоятельно ​​."
+    },
+    {
+        "name": "Аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91327864",
+        "salary": "300000 RUR",
+        "description": "Требования: Уверенное знание <highlighttext>Python</highlighttext> с аналитическими библиотеками и SQL: Clickhouse, MySQL. Опыт проведения A/B-тестов и знание теоретической базы для..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90323972",
+        "salary": "Не указано",
+        "description": "Требования: Опыт программирования на TypeScript. Навыки работы с BEM. Понимание OОП и принципов SOLID, КISS, DRY, YAGNI. Опыт программирования на <highlighttext>python</highlighttext>..."
+    },
+    {
+        "name": "Python Developer",
+        "city": "Новосибирск",
+        "url": "https://hh.ru/vacancy/91270001",
+        "salary": "90000 - 130000 RUR",
+        "description": "Требования: Знание <highlighttext>Python</highlighttext>, желателен опыт работы с ним в продакшене. Уверенное владение стандартными библиотеками. Уверенное владение numpy. Базовые навыки работы OpenCV..."
+    },
+    {
+        "name": "Ведущий специалист отдела операций на фондовом рынке",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91294932",
+        "salary": "Не указано",
+        "description": "Требования: Наличие квалификации по брокерско-дилерской деятельности ( 6 уровень квалификации). Коммуникабельность и клиентоцентричность. Будет плюсом: знание языков программирования ( <highlighttext>Python</highlighttext>, Power BI)."
+    },
+    {
+        "name": "Data Engineer Junior",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91165220",
+        "salary": "70000 - 150000 RUR",
+        "description": "Требования: Имеете представление, что такое сквозная аналитика и понимаете в чем различие между классическими моделями атрибуции."
+    },
+    {
+        "name": "Аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91266847",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы с BI-инструментами. Знаете основы статистики. Навыки программирования на <highlighttext>Python</highlighttext>. Знание/опыт работы с коммерческими/маркетинговыми метриками. "
+    },
+    {
+        "name": "Системный администратор / Специалист технической поддержки",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91196335",
+        "salary": "150000 RUR",
+        "description": "Требования: Знание операционных систем Linux. Умение читать и понимать код (<highlighttext>Python</highlighttext>, JavaScript, C#, Java или другие). Умение читать и разбираться в..."
+    },
+    {
+        "name": "Стажер Python Fullstack (офис)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90286270",
+        "salary": "Не указано",
+        "description": "Требования: Желание развиваться в направлении front-end разработки. Основы <highlighttext>Python</highlighttext>, идеально — умение писать классы, но если они вам еще не поддались..."
+    },
+    {
+        "name": "Верстальщик (удаленно)",
+        "city": "Краснодар",
+        "url": "https://hh.ru/vacancy/90982035",
+        "salary": "40000 - 80000 RUR",
+        "description": "Требования: Верстальщик с опытом работы на OpenCart (удаленно). От исполнителя: + Знание особенностей и строения системы OpenCart. + Соответствие с W..."
+    },
+    {
+        "name": "Программист-стажер",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91224284",
+        "salary": "50000 RUR",
+        "description": "Требования: Иметь представление о html,css,JavaScript/Vue, nodejs/php,<highlighttext>python</highlighttext>,MySQL/MongoDB,nginx/apache,Linux,WSL,Docker. Уметь играть в..."
+    },
+    {
+        "name": "Программист-стажер",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91315229",
+        "salary": "Не указано",
+        "description": "Требования: Высшее или неоконченное высшее техническое образование: физика/математика/вычислительная математика/кибернетика/информационные технологии. Знание теоретических основ: математический анализ, дискретный анализ..."
+    },
+    {
+        "name": "Инженер IT инфраструктуры (Modern workplace)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91270643",
+        "salary": "300000 RUR",
+        "description": "Требования: Владение скриптовыми языками (например, PowerShell, <highlighttext>Python</highlighttext>) для автоматизации рутинных задач и управления конфигурацией. Опыт работы с инструментами мониторинга (например, Nagios..."
+    },
+    {
+        "name": "Backend developer (Python, FastAPI)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91304792",
+        "salary": "Не указано",
+        "description": "Требования: Опыт разработки сервисов на <highlighttext>Python</highlighttext> от 2 лет."
+    },
+    {
+        "name": "Backend-разработчик, удаленно",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90215913",
+        "salary": "100000 RUR",
+        "description": "Требования: <highlighttext>Python</highlighttext> (хороший уровень). Умение сниферить запросы, желателен опыт с fiddler. Знание и написание RESTful API. Опыт работы с Postman. "
+    },
+    {
+        "name": "Junoir backend developer (Python)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/90565057",
+        "salary": "60000 RUR",
+        "description": "Требования: Знаешь <highlighttext>Python</highlighttext> и имеешь опыт написания pet-проектов. Знаком(а) с Django и Flask/Fast API. Понимаешь СУБД и можешь..."
+    },
+    {
+        "name": "Python-developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91261236",
+        "salary": "100000 - 215000 RUR",
+        "description": "Требования: Делать лучший продукт в России. Уверенные знания <highlighttext>Python</highlighttext>, ООП. Опыт работы с PostgreSQL: построение оптимальных sql-запросов (без использования ORM..."
+    },
+    {
+        "name": "QA-Инженер",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91281826",
+        "salary": "Не указано",
+        "description": "Требования: Желательно знание языков программирования или сценарных языков (например, <highlighttext>Python</highlighttext>, Java, JavaScript). Умение работать в условиях быстро меняющихся требований и приоритетов."
+    },
+    {
+        "name": "QA engineer (внутренний проект)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91312591",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы Ручным тестировщиком. Опыт написания автотестов (Java) и интерес развиваться в этом направлении. Опыт формирования тестовой документации. "
+    },
+    {
+        "name": "Стажер-разработчик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91276076",
+        "salary": "Не указано",
+        "description": "Требования: Базовые технические знания и навыки в ИТ. Базовое знание языка <highlighttext>Python</highlighttext>. Желание вникать в бизнес-логику/бизнес-процессы. Самостоятельность. "
+    },
+    {
+        "name": "Программист-стажер",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90382584",
+        "salary": "20000 - 30000 RUR",
+        "description": "Требования: Не указано"
+    },
+    {
+        "name": "Python Developer (стажер)",
+        "city": "Воронеж",
+        "url": "https://hh.ru/vacancy/91182148",
+        "salary": "Не указано",
+        "description": "Требования: Теоретическое знание <highlighttext>Python</highlighttext>, знание основных алгоритмов и структур данных, SQL и проектирования реляционных БД. Понимание принципов ООП. Навыки использования OS..."
+    },
+    {
+        "name": "Программист Python",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91282139",
+        "salary": "Не указано",
+        "description": "Требования: Уверенное понимание работы с Git. Опыт многопоточного и асинхронного программирования. Опыт работы PostgreSQL и c RabbitMQ. Понимание принципов SOLID. "
+    },
+    {
+        "name": "Python-разработчик",
+        "city": "Омск",
+        "url": "https://hh.ru/vacancy/91256157",
+        "salary": "100000 - 150000 RUR",
+        "description": "Требования: Опыт работы в качестве <highlighttext>Python</highlighttext>-разработчика. Опыт использования популярных <highlighttext>Python</highlighttext>-фреймворков (кроме Django). Знание библиотек OpenCV, TensorFlow и PyTorch. "
+    },
+    {
+        "name": "Junior-тестировщик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91267470",
+        "salary": "30000 - 40000 RUR",
+        "description": "Требования: Базовые знания методологии разработки программного обеспечения. Общее представление о Web-технология, понимание для чего и где используется. Любить тестирование. "
+    },
+    {
+        "name": "Junior Data Scientist",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90947346",
+        "salary": "Не указано",
+        "description": "Требования: Желание разбираться в данных. Опыт аналитической работы с использованием языка <highlighttext>Python</highlighttext>\\SAS. Знание ML. Знание PL/SQL, опыт работы с..."
+    },
+    {
+        "name": "Программист-разработчик Python",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91312632",
+        "salary": "Не указано",
+        "description": "Требования: Высшее техническое образование. Опыт работы <highlighttext>Python</highlighttext> разработчиком от 1 года. Знания fastapi, работа с базами данных SQL и NoSQL, навыки..."
+    },
+    {
+        "name": "Стажер в информационную безопасность",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91302650",
+        "salary": "40000 RUR",
+        "description": "Требования: Системное администрирования (Linux и Windows). Работы с различными СЗИ. Навык работы со скриптами (<highlighttext>Python</highlighttext>, Bash, Powershell). Навык анализа логов ОС..."
+    },
+    {
+        "name": "Middle Python developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91273774",
+        "salary": "150000 RUR",
+        "description": "Требования: ...<highlighttext>python</highlighttext>3. - Уверенное владение хотя бы одним из известных веб-фреймворков - django/flask/starlette-fastapi. - Знакомство с современным инструментами <highlighttext>python</highlighttext>..."
+    },
+    {
+        "name": "Разработчик Python",
+        "city": "Нижний Новгород",
+        "url": "https://hh.ru/vacancy/90981465",
+        "salary": "Не указано",
+        "description": "Требования: Разработка проектов на <highlighttext>Python</highlighttext> с использованием Django/DRF от 1 года. Опыт написания raw SQL запросов, понимание и оптимизация запросов..."
+    },
+    {
+        "name": "Руководитель IT-департамента",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91239985",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы в IT от 3х лет. Практический опыт разработки. Умение понять проблемы и задачи бизнеса, предложить оптимальное технологическое..."
+    },
+    {
+        "name": "Программист Python (удаленно)",
+        "city": "Владивосток",
+        "url": "https://hh.ru/vacancy/91021945",
+        "salary": "75000 RUR",
+        "description": "Требования: Опыт веб-разработки, знание указанных выше языков или иных для решения поставленной задачи."
+    },
+    {
+        "name": "Бэкенд-разработчик Python Django",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90551583",
+        "salary": "Не указано",
+        "description": "Требования: опыт работы от 1 года."
+    },
+    {
+        "name": "Backend разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90356190",
+        "salary": "70000 - 100000 RUR",
+        "description": "Требования: Понимание сетей. HTTP/HTTPS. TCP/IP (*). WebSockets (*). Django Serialize/Pydantic/Dataclass. Pytest/Tox. Линтеры, статические анализаторы, форматеры (*). Bash Scripts (*). "
+    },
+    {
+        "name": "Менеджер Отдела анализа и планирования финансово-хозяйственной деятельности",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91294731",
+        "salary": "Не указано",
+        "description": "Требования: Базовые навыки программирования будут плюсом: MS SQL Server/MS Power BI/<highlighttext>Python</highlighttext>. Желание расти и развиваться, работать в рамках поставленных..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91293953",
+        "salary": "Не указано",
+        "description": "Требования: Отличные знания верстки. Опыт бэкенд-разработки на алгоритмических языках (PHP/<highlighttext>Python</highlighttext>). Знание SQL и теории реляционных баз данных. "
+    },
+    {
+        "name": "Data Scientist (специалист по анализу данных и машинному обучению)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91308305",
+        "salary": "Не указано",
+        "description": "Требования: Высшее образование. Языки программирования: знание <highlighttext>Python</highlighttext>. DS пакеты: scikit-learn, TensorFlow, PyTorch, pandas, NumPy. Знания технологии Big Data (Hadoop, Hive..."
+    },
+    {
+        "name": "Разработчик Python (Junior)(аккредитованная ИТ-компания)",
+        "city": "Вологда",
+        "url": "https://hh.ru/vacancy/91101551",
+        "salary": "35000 - 45000 RUR",
+        "description": "Требования: Знания <highlighttext>Python</highlighttext> (Django). Понимание клиент-серверной архитектуры. Понимание принципов работы баз данных и SQL. Понимание микросервисной архитектуры. Знание системы управления..."
+    },
+    {
+        "name": "Junior Analyst (Младший Аналитик)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91266952",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы с MS Excel Solver. Умение программировать VBA, SQL, <highlighttext>Python</highlighttext> и т.п.. Навыки самостоятельного ведения проектов (Project Management). "
+    },
+    {
+        "name": "Backend Python Django Developer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90578989",
+        "salary": "40000 - 90000 RUR",
+        "description": "Требования: Опыт работы с <highlighttext>Python</highlighttext>. Уверенное знание <highlighttext>Python</highlighttext> и в частности Django. Знание SQL (MySQL). Опыт работы с Git, Docker, GitFlow."
+    },
+    {
+        "name": "Стажер-разработчик Python/Java/Kotlin (компьютерное зрение), удалённо",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/89166853",
+        "salary": "15000 RUR",
+        "description": "Требования: Знание <highlighttext>Python</highlighttext>. Знание Tensorflow или PyTorch. Опыт использования моделей семантической. Сегментации, детекции, классификации. Опыт работы с Docker. Опыт написания микросервиса..."
+    },
+    {
+        "name": "Frontend разработчик (Управление перспективных проектов)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91320806",
+        "salary": "Не указано",
+        "description": "Требования: Преимуществом является знание DevExtreme, Django, Django Rest Framework, PySpark, Docker, Kubernetes."
+    },
+    {
+        "name": "Junior Python developer",
+        "city": "Набережные Челны",
+        "url": "https://hh.ru/vacancy/90286142",
+        "salary": "50000 RUR",
+        "description": "Требования: Умение программировать на <highlighttext>Python</highlighttext>, писать читаемый код. Знание фреймворков Django. Разбираться в верстке HTML и CSS. Опыт работы со сторонними..."
+    },
+    {
+        "name": "Продуктовый аналитик (junior)",
+        "city": "Рязань",
+        "url": "https://hh.ru/vacancy/91244556",
+        "salary": "100000 - 200000 RUR",
+        "description": "Требования: Владение PowerBI / Tableau / DataLens / Superset / Grafana или другим BI-инструментом для визуализации данных, создание витрин данных. Знание SQL и <highlighttext>Python</highlighttext>. "
+    },
+    {
+        "name": "Методист",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90944557",
+        "salary": "70000 - 100000 RUR",
+        "description": "Требования: ...на английском, самостоятельно готовить контент на английском не требуется). — базовые навыки работы в <highlighttext>Python</highlighttext> / SQL. — знание финансов на продвинутом уровне."
+    },
+    {
+        "name": "Начинающий аналитик / тестировщик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91221490",
+        "salary": "50000 RUR",
+        "description": "Требования: Понимание структуры и содержания проектной и рабочей документации на информационную систему. Навыки программирования на Java/<highlighttext>Python</highlighttext>, знание основ SQL, принципов..."
+    },
+    {
+        "name": "Исследователь",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/90505963",
+        "salary": "60000 RUR",
+        "description": "Требования: Преимуществом будет: Владение как минимум одной средой статистического анализа: R, Stata, <highlighttext>Python</highlighttext>. Навыки статистического анализа данных. Владение методами машинного обучения. "
+    },
+    {
+        "name": "Специалист-аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91308813",
+        "salary": "90000 RUR",
+        "description": "Требования: Написание скриптов на <highlighttext>Python</highlighttext>, общие представления об основных библиотеках, используемых в работе: pandas, numpy, datetime, os, re, openpyxl, nltk. "
+    },
+    {
+        "name": "Стажер Back-end разработчика (php, python, c#)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/89753481",
+        "salary": "15000 - 30000 RUR",
+        "description": "Требования: Знание одного из языков: php, <highlighttext>python</highlighttext>, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если..."
+    },
+    {
+        "name": "Программист-разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91296442",
+        "salary": "100000 - 120000 RUR",
+        "description": "Требования: ...с системами контроля версий (git). Опыт разработки на одноплатных компьютерах. Опыт использования фреймворка Qt. Опыт разработки под Linux. Знание <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Python Backend Developer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90224812",
+        "salary": "120000 RUR",
+        "description": "Требования: Не указано"
+    },
+    {
+        "name": "Технический директор (СТО) в IT компанию",
+        "city": "Новосибирск",
+        "url": "https://hh.ru/vacancy/91249290",
+        "salary": "500000 RUR",
+        "description": "Требования: Широкий IT кругозор и опыт , умение предложить техническое решение для реализации бизнес-планов. Опыт управления процессами разработки и тестирования приложений."
+    },
+    {
+        "name": "ML инженер (стажер)",
+        "city": "Томск",
+        "url": "https://hh.ru/vacancy/91250345",
+        "salary": "Не указано",
+        "description": "Требования: Уделять стажировке не менее 15 часов в неделю."
+    },
+    {
+        "name": "Стажер/Аналитик данных (Python, Power BI)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91329403",
+        "salary": "Не указано",
+        "description": "Требования: Знание Word, Excel, <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Стажер/разработчик Python",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90415076",
+        "salary": "Не указано",
+        "description": "Требования: Знания Linux. Будет плюсом задание Go/C/C++, знание сетей."
+    },
+    {
+        "name": "Стажер IT (нагрузочное тестирование), Ижевск",
+        "city": "Ижевск",
+        "url": "https://hh.ru/vacancy/91261164",
+        "salary": "40000 - 45000 RUR",
+        "description": "Требования: Увлеченность IT - тематикой и стремление к развитию в этом направлении. Основы ООП, простейшие алгоритмы. Базовые знания Java необходимы. "
+    },
+    {
+        "name": "Аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91280206",
+        "salary": "220000 RUR",
+        "description": "Требования: <highlighttext>Python</highlighttext> на уровне уверенного пользователя (pandas, numpy, другие стандартные питон-библиотеки). Базовые навыки работы с табличными данными, знание SQL. "
+    },
+    {
+        "name": "Prompt Engineer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/90410302",
+        "salary": "Не указано",
+        "description": "Требования: Понимаешь принципы машинного обучения, работы LLM, обработки естественного языка (NLP) и компьютерного зрения. Знаешь <highlighttext>Python</highlighttext> (знание Go и JavaScript будет..."
+    },
+    {
+        "name": "Экономист-аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91329159",
+        "salary": "Не указано",
+        "description": "Требования: Высшее экономическое образование. Знание эконометрики, экономической теории и статистики. Опыт работы с базами данных как преимущество (<highlighttext>Python</highlighttext>, R, SQL)."
+    },
+    {
+        "name": "C#/.NET backend разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91198526",
+        "salary": "500000 RUR",
+        "description": "Требования: Опыт работы с FIX protocol. Опыт в трейдинге или маркет-мейкинге. Опыт работы с <highlighttext>Python</highlighttext>. Опыт работы с микросервисной архитектурой. "
+    },
+    {
+        "name": "Стажер продуктовый аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90393605",
+        "salary": "Не указано",
+        "description": "Требования: Ты хорошо владеешь SQL. В <highlighttext>Python</highlighttext> ты можешь получать данные из базы, соединять несколько источников в одну таблицу, рисовать графики. "
+    },
+    {
+        "name": "Python 3.10+ Backend разработчик",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91214646",
+        "salary": "130000 RUR",
+        "description": "Требования: Ожидание от кандидата- стремление создавать качественный и интересный продукт, желание реализовывать свои идеи. Уверенные знания: <highlighttext>Python</highlighttext> 3.10+. Flask. "
+    },
+    {
+        "name": "Тестировщик (Стажер)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90718662",
+        "salary": "40000 RUR",
+        "description": "Требования: Знание PHP и <highlighttext>Python</highlighttext> на уровне разработки и тестирования. Опыт работы с фреймворками Laravel и Django. Навыки работы с базами..."
+    },
+    {
+        "name": "Программист Python (разработка тг-бота)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91217831",
+        "salary": "30000 - 70000 RUR",
+        "description": "Требования: Имеет релеватный опыт работы от 1-2 лет. Не боится большого объема информации. Самоорганизован, энергичен и инициативен. Готов постоянно быть..."
+    },
+    {
+        "name": "Backend-разработчик Go (переход с других языков программирования)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91271347",
+        "salary": "Не указано",
+        "description": "Требования: Опыт промышленной разработки на высокоуровневых языках программирования (С++, <highlighttext>Python</highlighttext>, Java, C#, <highlighttext>Python</highlighttext>, Ruby - любые два) - 2–3 года и более. "
+    },
+    {
+        "name": "Python-разработчик / Junior Python Developer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90204534",
+        "salary": "100000 - 150000 RUR",
+        "description": "Требования: Требуемый опыт работы: опыт в программировании на <highlighttext>Python</highlighttext>. Ключевые навыки: <highlighttext>Python</highlighttext>, Linux, MySQL, Apache HTTP Server, SQL, Flask."
+    },
+    {
+        "name": "Стажер QA-инженер",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91320117",
+        "salary": "Не указано",
+        "description": "Требования: Знание языка <highlighttext>Python</highlighttext>. Базовые знания SQL. Опыт работы с GitHub/Gitlab/Bitbucket, Jira, Confluence. Приветствуется опыт написания автотестов на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Аналитик (Правительство Москвы)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/76431704",
+        "salary": "60000 - 80000 RUR",
+        "description": "Требования: Экспертное владение Excel. (VBA, power query, формулы массивов - как преимущество). Владение <highlighttext>Python</highlighttext> для анализа данных (библиотека pandas) - как преимущество. "
+    },
+    {
+        "name": "Стажер - продуктовый аналитик, Подгруппа \"Аналитика и исследования\"",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91327054",
+        "salary": "Не указано",
+        "description": "Требования: Знание SQL (различные виды джоинов, функции агрегации). <highlighttext>Python</highlighttext> (базовые навыки). Excel (сводные таблицы, немного power query). Умение работать в любой..."
+    },
+    {
+        "name": "Тестировщик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/91067284",
+        "salary": "Не указано",
+        "description": "Требования: Самостоятельность, умение разбираться в тестируемом функционале. Логическое мышление (умение последовательно описать шаги и условия воспроизведения ошибки). Будет плюсом знание <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "name": "Middle Frontend Developer (React, React Native)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91243871",
+        "salary": "230000 RUR",
+        "description": "Требования: Понимание особенностей работы нативных приложений. Знание другия ЯП (swift, kotlin, <highlighttext>python</highlighttext> и тд). Наличие портфолио на Github/Gitlab (приложите ссылку..."
+    },
+    {
+        "name": "Аналитик / Associate в Polaris Capital",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91321397",
+        "salary": "Не указано",
+        "description": "Требования: ...Capital IQ и т.п.) Знание языков программирования, таких как <highlighttext>Python</highlighttext>, приветствуется. Английский язык: свободное владение. Требуемые личные качества: высокие..."
+    },
+    {
+        "name": "QA-инженер / Тестировщик программного обеспечения",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91305318",
+        "salary": "80000 RUR",
+        "description": "Требования: Базовые знания английского приветствуются. Прохождение специализированных курсов. Базовое представление об SQL. Знание скриптовых языков типа <highlighttext>Python</highlighttext>. Желание развиваться в области..."
+    },
+    {
+        "name": "Junior/Trainee python-разработчик",
+        "city": "Самара",
+        "url": "https://hh.ru/vacancy/91033282",
+        "salary": "Не указано",
+        "description": "Требования: Опыт разработки на <highlighttext>Python</highlighttext> от 1 года. Опыт разработки веб-приложений Fastapi. Опыт работы с базами данных (Postgres, MongoDB, Redis). "
+    },
+    {
+        "name": "Data scientist",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91278563",
+        "salary": "Не указано",
+        "description": "Требования: ...с текстами (Sentence-Bert, Bert, NER, GPT, T5). Умение писать готовый к production код (<highlighttext>Python</highlighttext>), навыки написания SQL запросов."
+    },
+    {
+        "name": "Младший аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/89035627",
+        "salary": "Не указано",
+        "description": "Требования: Опыт чтения документации DWH будет преимуществом. Уверенное владение SQL или <highlighttext>Python</highlighttext>. Умение использовать продвинутые функции Excel. Опыт работы с Zeppelin..."
+    },
+    {
+        "name": "Продуктовый аналитик / Data Analyst (junior)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91234804",
+        "salary": "800 USD",
+        "description": "Требования: понимать, моделировать и анализировать LTV, ROI, ARPU, retention, churn и др.. - умение проводить А/Б тесты и подсчитывать их достоверность. - "
+    },
+    {
+        "name": "Junior / Junior+ Python разработчик",
+        "city": "Казань",
+        "url": "https://hh.ru/vacancy/90789679",
+        "salary": "40000 RUR",
+        "description": "Требования: умение работать с документацией. Будет плюсом: - опыт применения Git. - опыт работы со сторонними api. - <highlighttext>python</highlighttext> библиотеки request, bs4. - "
+    },
+    {
+        "name": "Junior Python разработчик",
+        "city": "Химки",
+        "url": "https://hh.ru/vacancy/90252342",
+        "salary": "100000 RUR",
+        "description": "Требования: Знание языка программирования <highlighttext>Python</highlighttext> 3.x. Умение читать и понимать чужой код. Опыт работы с реляционными базами данных. "
+    },
+    {
+        "name": "Аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91330957",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы аналитиком от 2-х лет. <highlighttext>Python</highlighttext>: опыт работы как в Jupyter-ноутбуках, так и в разработке функций, используемых..."
+    },
+    {
+        "name": "Senior Project Manager (CVM)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91291979",
+        "salary": "400000 RUR",
+        "description": "Требования: Базовое знание хотя бы одного из языков программирования (например, <highlighttext>Python</highlighttext> или Java). Опыт работы с распределенными командами и разработчиками, частично..."
+    },
+    {
+        "name": "Тестировщик ПО (QA Engineer)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91237789",
+        "salary": "50000 - 80000 RUR",
+        "description": "Требования: Знание и понимание специфики тестирования. - Понимание процессов разработки и тестирования. - Знание техник тест-дизайна."
+    },
+    {
+        "name": "Junior Data Scientist (Стажер)",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/89413886",
+        "salary": "Не указано",
+        "description": "Требования: Иметь навыки программирования на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Python-разработчик (Управление данными)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90657302",
+        "salary": "Не указано",
+        "description": "Требования: <highlighttext>Python</highlighttext>, Django, Flask, SQL. Знание Kubernetes, Kubflow, Docker, ML будет преимуществом."
+    },
+    {
+        "name": "Junior Fullstack разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91214258",
+        "salary": "70000 RUR",
+        "description": "Требования: Понимание работы backend части web-разработки. PHP или <highlighttext>Python</highlighttext> обязательно. Javascript на базовом уровне. Понимание работы с GIT. "
+    },
+    {
+        "name": "Python-программист (Python backend developer)",
+        "city": "Барнаул",
+        "url": "https://hh.ru/vacancy/90456435",
+        "salary": "100000 RUR",
+        "description": "Требования: Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. "
+    },
+    {
+        "name": "Python Developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91329827",
+        "salary": "110000 - 140000 RUR",
+        "description": "Требования: Владеете уверенными знаниями <highlighttext>Python</highlighttext>. Обладаете уверенными знаниями SQL и был опыт работы с PostgreSQL. Знаете технический английский на уровне чтения..."
+    },
+    {
+        "name": "Стажер-разработчик Python (финтех)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90865664",
+        "salary": "Не указано",
+        "description": "Требования: Уверенное знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворком Django. Опыт работы с СУБД PostgreSQL. Знание ООП и структур данных. "
+    },
+    {
+        "name": "Стажер-разработчик Python",
+        "city": "Ярославль",
+        "url": "https://hh.ru/vacancy/90415053",
+        "salary": "Не указано",
+        "description": "Требования: Знание <highlighttext>Python</highlighttext> и Django. Будет плюсом знание React/Vue, Go/C/C++, сетей, Linux."
+    },
+    {
+        "name": "Junior Data Scientist",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90878934",
+        "salary": "Не указано",
+        "description": "Требования: Хороший уровень владения <highlighttext>Python</highlighttext> и наиболее популярными библиотеками, используемыми при анализе данных и построении моделей (pandas, numpy, sklearn, scipy, statsmodels..."
+    },
+    {
+        "name": "DevOps-engineer (Junior)",
+        "city": "Новосибирск",
+        "url": "https://hh.ru/vacancy/91152631",
+        "salary": "100000 RUR",
+        "description": "Требования: Linux (ubuntu/debian, centos). Kubernetes (k8s, k3s). Prometheus/Grafana/Zabbix. ELK. CI/CD (GitLab, Jenkins). "
+    },
+    {
+        "name": "In-Store Specialist / Специалист по эффективности полевых сил",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90472026",
+        "salary": "150000 RUR",
+        "description": "Требования: Advanced Excel and data visualization skills (e.g., Power BI). Excellent organization and time management skills. <highlighttext>Python</highlighttext> and KNIME skills..."
+    },
+    {
+        "name": "Разработчик игр / Game Developer",
+        "city": "Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/91242759",
+        "salary": "150000 - 400000 RUR",
+        "description": "Требования: Опыт в разработке игр, знание языков программирования, движков и т.д. Аналитическое и творческое мышление в тесной кооперации. "
+    },
+    {
+        "name": "Аналитик данных / BI-аналитик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91307076",
+        "salary": "Не указано",
+        "description": "Требования: Опыт в аналогичной должности от 2 лет. Отличное знание SQL, базово <highlighttext>Python</highlighttext> (pandas). Опыт работы с BI. Опыт работы с..."
+    },
+    {
+        "name": "Data Engineer",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91277496",
+        "salary": "500000 RUR",
+        "description": "Требования: Уверенные знания <highlighttext>Python</highlighttext> 3.7 + Spark 2.4 / Spark 3.0 (структуры данных, алгоритмы, концепции языка). Уверенные знания SQL..."
+    },
+    {
+        "name": "Программист Python (сеть вендинга)",
+        "city": "Казань",
+        "url": "https://hh.ru/vacancy/91246051",
+        "salary": "Не указано",
+        "description": "Требования: Большая часть нашего софта сделана на <highlighttext>Python</highlighttext> + Vue.js, поэтому важно наличие у вас большого опыта работы с <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Data Engineer (DWH)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91027215",
+        "salary": "Не указано",
+        "description": "Требования: Глубокое знание SQL (включая оконные аналитические функции). Уверенное владение <highlighttext>Python</highlighttext>. Опыт написания пайплайнов на Spark и опыт работы с Hadoop..."
+    },
+    {
+        "name": "Программист-разработчик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/90410518",
+        "salary": "50000 - 200000 RUR",
+        "description": "Требования: Знание .Net (.Net 6.0+, EF Core). Опыт работы с PostgreSQL (или другими реляционными базами данных). Опыт работы с..."
+    },
+    {
+        "name": "Middle QA-инженер (удаленно)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91303510",
+        "salary": "Не указано",
+        "description": "Требования: Опыт в тестировании от 3х лет. Опыт тестирования веб-приложений (frontend\\backend\\SQL\\API). Понимание этапов и процессов тестирования..."
+    },
+    {
+        "name": "Research Engineer DL/ML",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91272131",
+        "salary": "Не указано",
+        "description": "Требования: Профильное высшее образование. <highlighttext>Python</highlighttext>, Pytorch. ML, DL. Навык чтения и реализации статей. Хорошая математическая подготовка."
+    },
+    {
+        "name": "Инженер-тестировщик",
+        "city": "Екатеринбург",
+        "url": "https://hh.ru/vacancy/90749548",
+        "salary": "40000 - 90000 RUR",
+        "description": "Требования: Опыт не обязателен. - Приветствуется знание основ тестирования ПО. - Готовность к обучению. - Умение работать самостоятельно ​​."
+    },
+    {
+        "name": "Аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91327864",
+        "salary": "300000 RUR",
+        "description": "Требования: Уверенное знание <highlighttext>Python</highlighttext> с аналитическими библиотеками и SQL: Clickhouse, MySQL. Опыт проведения A/B-тестов и знание теоретической базы для..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90323972",
+        "salary": "Не указано",
+        "description": "Требования: Опыт программирования на TypeScript. Навыки работы с BEM. Понимание OОП и принципов SOLID, КISS, DRY, YAGNI. Опыт программирования на <highlighttext>python</highlighttext>..."
+    },
+    {
+        "name": "Python Developer",
+        "city": "Новосибирск",
+        "url": "https://hh.ru/vacancy/91270001",
+        "salary": "90000 - 130000 RUR",
+        "description": "Требования: Знание <highlighttext>Python</highlighttext>, желателен опыт работы с ним в продакшене. Уверенное владение стандартными библиотеками. Уверенное владение numpy. Базовые навыки работы OpenCV..."
+    },
+    {
+        "name": "Ведущий специалист отдела операций на фондовом рынке",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91294932",
+        "salary": "Не указано",
+        "description": "Требования: Наличие квалификации по брокерско-дилерской деятельности ( 6 уровень квалификации). Коммуникабельность и клиентоцентричность. Будет плюсом: знание языков программирования ( <highlighttext>Python</highlighttext>, Power BI)."
+    },
+    {
+        "name": "Data Engineer Junior",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91165220",
+        "salary": "70000 - 150000 RUR",
+        "description": "Требования: Имеете представление, что такое сквозная аналитика и понимаете в чем различие между классическими моделями атрибуции."
+    },
+    {
+        "name": "Аналитик данных",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91266847",
+        "salary": "Не указано",
+        "description": "Требования: Опыт работы с BI-инструментами. Знаете основы статистики. Навыки программирования на <highlighttext>Python</highlighttext>. Знание/опыт работы с коммерческими/маркетинговыми метриками. "
+    },
+    {
+        "name": "Системный администратор / Специалист технической поддержки",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/91196335",
+        "salary": "150000 RUR",
+        "description": "Требования: Знание операционных систем Linux. Умение читать и понимать код (<highlighttext>Python</highlighttext>, JavaScript, C#, Java или другие). Умение читать и разбираться в..."
+    },
+    {
+        "name": "Стажер Python Fullstack (офис)",
+        "city": "Москва",
+        "url": "https://hh.ru/vacancy/90286270",
+        "salary": "Не указано",
+        "description": "Требования: Желание развиваться в направлении front-end разработки. Основы <highlighttext>Python</highlighttext>, идеально — умение писать классы, но если они вам еще не поддались..."
+    }
+]
