@@ -14,6 +14,14 @@ class Vacancy:
         else:
             self.__average_salary = 0
 
+    def __str__(self):
+        s = f"Title: {self.name}\, Url: {self.url}, Salary: {self.salary}"
+        return s
+
+    def __repr__(self):
+        s = f"Title: {self.name}, Url: {self.url}, Salary: {self.salary}"
+        return s
+
     def __eq__(self, other):
         return self.__average_salary == other.__average_salary
 

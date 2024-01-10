@@ -52,12 +52,12 @@ class HeadHunterAPI(Api):
                     "url": parsed_vacancy.get('alternate_url'),
                     "description": "Требования: " + requirements
                 }
-                vacancies.append(vacancy)
                 curr_vacancy = Vacancy(vacancy['title'],
                                        vacancy['url'],
                                        vacancy['salary'],
                                        vacancy['description'],
                                        vacancy['city'])
+                vacancies.append(curr_vacancy)
                 json_saver.add_vacancy(curr_vacancy)
             return vacancies
         else:
